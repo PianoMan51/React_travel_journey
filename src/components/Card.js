@@ -5,7 +5,7 @@ export default function Card(props) {
   return (
     <>
       <div className="card">
-        <img src={process.env.PUBLIC_URL + props.item.img} />
+        <img src={process.env.PUBLIC_URL + props.item.img} width={"130px"} />
         <div className="content">
           <span className="title">
             <img src={gpsIcon} height="7px" />

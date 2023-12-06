@@ -1,7 +1,7 @@
 export default [
   {
     title: "France",
-    img: "/images/paris.png",
+    img: "/images/paris.jpeg",
     location: "Paris",
     googleMapsUrl: "https://www.google.com/maps/place/Paris,+Frankrig",
     startDate: "15 May, 2023",
@@ -21,7 +21,7 @@ export default [
   },
   {
     title: "USA",
-    img: "/images/newyork.png",
+    img: "/images/newyork.jpeg",
     location: "New York City",
     googleMapsUrl: "https://www.google.com/maps/place/NewYorkCity,USA",
     startDate: "1 June, 2024",
